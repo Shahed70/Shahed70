@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/58668503?v=4" align="center" style="width: 300px; height:300px;" />
+<img src="https://scontent.fcgp28-1.fna.fbcdn.net/v/t1.6435-9/197790664_1064287207435558_1696484805965936841_n.png?stp=dst-png_p240x240&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHnCynfr56DD4LRuiLi9rrPwqzPhYQ46jHCrM-FhDjqMW4g7eFhIKwzI2TOlCHIDA96dEs_mxSdm_OWkHvZLnVN&_nc_ohc=2tsQlE-S0N8AX821UiJ&_nc_ht=scontent.fcgp28-1.fna&oh=00_AT9QMUhE1Iv1upOuyvxzJgoBjeDfSWudOpjD8mn0g3qHxw&oe=6317D5FD" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Rejaul, a full-time full-stack web developer 👨‍💻 working in this field since 2018 🚀</div>  
+### <div align="center">I'm Rejaul, a full-stack web developer 👨‍💻 working in this field since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on Redex Techonogies  
@@ -94,25 +94,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahed70&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-![Listening to on Spotify](https://rishavanand.github.io/static/images/spotify-readme-example.svg)  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahed70&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
 ----
